@@ -1,7 +1,6 @@
 # About the document
 
-* 行前通知：waiting for the hotels confirmed
-* 環島手冊：working on 注意事項 now.
+* 行前通知：Waiting for the hotels confirmed.
+* 環島手冊：Bycicle technic done.  Itinerary empty.
 * 心得彙編：None.
 * 特別企劃：None.
-* plause
